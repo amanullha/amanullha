@@ -38,7 +38,7 @@
 ## Experience
 * Student Prefect at ULAB (Nov 2021-Feb 2022)
 * Competitive Programming Trainer for Beginner(Nov 2020-Present)
-* Create basic programming content on Youtube <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucg9kthathhh6wb36zmsxy_a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucg9kthathhh6wb36zmsxy_a" height="30" width="40" /></a>
+* Create basic programming content on Youtube <a href="https://www.youtube.com/channel/UCg9KtHaThHh6Wb36ZMsxy_A/videos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[https://www.youtube.com/channel/ucg9kthathhh6wb36zmsxy_a](https://www.youtube.com/channel/UCg9KtHaThHh6Wb36ZMsxy_A/videos)" height="30" width="40" /></a>
 
 
 
