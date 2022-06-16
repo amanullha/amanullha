@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD.AMANULLHA</h1>
+<h1 align="center">Hi , I'm MD.AMANULLHA</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanullha&label=Profile%20views&color=0e75b6&style=flat" alt="amanullha" /> </p>
@@ -14,31 +14,26 @@
 </p>
 
 ## Github Stats
-![Sadman's stat](https://github-readme-stats.vercel.app/api?username=amanullha&show_icons=true&count_private=true)
+![amanullha](https://github-readme-stats.vercel.app/api?username=amanullha&show_icons=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadman007)
 
 ## Skills
-* Java Springboot, C/C++.
-* In-memory storage (Redis).
-* SQL(Postgres), NoSQL(MongoDB).
-* Data Structures & Algorithms, Competitive Programming.
-* Micro-service architecture and distributed system.
+* Expertise: **JavaScript, ES6, React.js, React Router, Rest API, React Bootstrap/Tailwind, HTML5, CSS3.**
+* Comfortable: **Node.js, Express.js, MongoDB.**
+* Familiar: **Next.js, Redux, TypeScript.**
+<!-- * Tools: **Git, GitHub, VS Code, Firebase, Heroku, Netlify, Chrome dev tools.** -->
+* **NoSQL(MongoDB).**
+* **Data Structures & Algorithms, Competitive Programming.**
+
   
-## Currently doing
-- 🔭 Learning Go, Apache Kafka, NiFi, Airflow, and playing with docker containers.
-- 🌱 Learning scalable system design and linux kernel. 
-- 👨‍🏫 Teaching 100+ students about coding and problem solving.
 
 
-## Work Experience
-* Software Engineer (Samsung R&D - 2 years)
-* Software Engineer (Penta Global Ltd - Almost 1 year)
 
-## Leadership Skills
-* Co-founder (Shoshikkha.com - an online learning platform in Bengali)
-* Manager (Synapse - A competitive programming blog of Bangladesh)
-* Competitive Programming Coach (University of Liberal Arts Bangladesh - Feb 2019 to Feb 2020)
-* Course Instructor at ![Devskill - online technical learning platform](https://training.devskill.com)
+<!-- ## Work Experience -->
+## Experience
+* Student Prefect at ULAB (Nov 2021-Feb 2022)
+* Competitive Programming Trainer for Beginner(Nov 2020-Present)
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanullha&show_icons=true&locale=en&layout=compact" alt="amanullha" /></p>
