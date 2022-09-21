@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Next.js, Redux, TypeScript**
 
 - 📫 How to reach me **mdamanullha03@gmail.com**
+- Portfolio: **https://portfolio-of-md-amanullha.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 
