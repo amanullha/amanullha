@@ -3,7 +3,7 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **Next.js, Redux, TypeScript**
+- 🌱 I’m currently learning ** AWS, DynamoDB, Flask, Next.js, Redux**
 
 - 📫 How to reach me **mdamanullha03@gmail.com**
 - Portfolio: **https://portfolio-of-md-amanullha.netlify.app/**
@@ -23,11 +23,10 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanullha)
 
 ## Skills
-* Expertise: **JavaScript, ES6, React.js, React Router, Rest API, React Bootstrap/Tailwind, HTML5, CSS3.**
-* Comfortable: **Node.js, Nest js, Express.js, MongoDB.**
-<!-- * Familiar: **Next.js, Redux, TypeScript.** -->
-* Tools: **Docker, Git, GitHub, VS Code, Firebase, Heroku, Netlify, Chrome dev tools.**
-* **NoSQL(MongoDB), MySql.**
+* Frontend: **JavaScript, ES6, React.js, React Router, React Bootstrap/Tailwind, HTML5, CSS3.**
+* Backend: **Node.js, Nest js, Express.js, TypeScript.**
+* Database: **NoSQL(MongoDB), SQL(MySql)**
+* Tools: **Docker, Git, GitHub, VS Code, Firebase, Heroku, Netlify,Vercel Chrome dev tools.**
 * **Data Structures & Algorithms, Competitive Programming.**
 
   
