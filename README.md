@@ -24,10 +24,10 @@
 
 ## Skills
 * Expertise: **JavaScript, ES6, React.js, React Router, Rest API, React Bootstrap/Tailwind, HTML5, CSS3.**
-* Comfortable: **Node.js, Express.js, MongoDB.**
+* Comfortable: **Node.js, Nest js, Express.js, MongoDB.**
 <!-- * Familiar: **Next.js, Redux, TypeScript.** -->
-* Tools: **Git, GitHub, VS Code, Firebase, Heroku, Netlify, Chrome dev tools.**
-* **NoSQL(MongoDB).**
+* Tools: **Docker, Git, GitHub, VS Code, Firebase, Heroku, Netlify, Chrome dev tools.**
+* **NoSQL(MongoDB), MySql.**
 * **Data Structures & Algorithms, Competitive Programming.**
 
   
@@ -36,6 +36,7 @@
 
 <!-- ## Work Experience -->
 ## Experience
+* Intern-Backend at 6 Sense Technology (14 Nov, 2022- 14 Feb, 2023)
 * Student Prefect at ULAB (Nov 2021-Feb 2022)
 * Competitive Programming Trainer for Beginner(Nov 2020-Present)
 * Create basic programming content on Youtube <a href="https://www.youtube.com/channel/UCg9KtHaThHh6Wb36ZMsxy_A/videos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[https://www.youtube.com/channel/ucg9kthathhh6wb36zmsxy_a](https://www.youtube.com/channel/UCg9KtHaThHh6Wb36ZMsxy_A/videos)" height="30" width="40" /></a>
